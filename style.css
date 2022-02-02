@@ -226,6 +226,7 @@ img {
     }
 
     nav .navbar-name {
+        padding-top: 10px;
         margin-left: -95px;
     }
 
