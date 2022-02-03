@@ -299,7 +299,7 @@ img {
 
     .menu-toggle {
         display: flex;
-        margin-right: -50px;
+        margin-right: -75px !important;
     }
 
     nav {  
