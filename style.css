@@ -299,7 +299,7 @@ img {
 
     .menu-toggle {
         display: flex;
-        margin-right: -75px;
+        margin-right: -70px;
     }
 
     nav {  
@@ -309,7 +309,7 @@ img {
 
     nav .navbar-name {
         padding-top: 10px;
-        margin-left: -75px;
+        margin-left: -70px;
     }
 
     nav ul {
