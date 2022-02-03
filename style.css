@@ -285,6 +285,10 @@ img {
     h4, ul {
         margin: 0 50px;
     }
+
+    .brand-name{
+        padding-top: 20px;
+    }
 }
 
 /* MOBILE VERSION */
@@ -295,7 +299,7 @@ img {
 
     .menu-toggle {
         display: flex;
-        margin-right: -100px;
+        margin-right: -75px;
     }
 
     nav {  
@@ -305,7 +309,7 @@ img {
 
     nav .navbar-name {
         padding-top: 10px;
-        margin-left: -95px;
+        margin-left: -75px;
     }
 
     nav ul {
@@ -335,13 +339,13 @@ img {
     }
 
     .brand {
-        width: 200px;
-        height: 300px;
+        width: 250px;
+        height: 350px;
         margin: 0 10px;
     }
     .brand img {
-        width: 200px;
-        height: 200px;
+        width: 250px;
+        height: 250px;
     }
     .brand-name p,
     .brand-price p {
