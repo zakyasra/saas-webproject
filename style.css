@@ -299,7 +299,7 @@ img {
 
     .menu-toggle {
         display: flex;
-        margin-right: -75px !important;
+        margin-right: -60px !important;
     }
 
     nav {  
@@ -309,7 +309,7 @@ img {
 
     nav .navbar-name {
         padding-top: 10px;
-        margin-left: -70px;
+        margin-left: -75px;
     }
 
     nav ul {
@@ -334,19 +334,31 @@ img {
         transform: translateX(-15%);
         opacity: 1;
     }
+
+    .content-text {
+        height: 70px;
+        font-size: 0.8em;
+    }
+
     .content-brand {
-        height: 400px;
+        height: 300px;
     }
 
     .brand {
-        width: 250px;
-        height: 350px;
+        width: 150px;
+        height: 250px;
         margin: 0 10px;
     }
+
     .brand img {
-        width: 250px;
-        height: 250px;
+        width: 150px;
+        height: 150px;
     }
+
+    .brand-name p {
+        margin-top: 20px;
+    }
+
     .brand-name p,
     .brand-price p {
         font-size: 0.8em;
